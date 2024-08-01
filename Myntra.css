@@ -1,0 +1,190 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+
+.Search{
+    width: 500px;
+    height: 45px;
+    background-color:#F5F5F6;
+    margin-left: -30px;
+    background-image: url(icons8-search-26.png);
+    background-size: 20px;
+    background-repeat: no-repeat;
+    background-position: 10px 12px;
+}
+
+#Search-icon{
+    padding-left: 40px;
+}
+
+.Profile{
+    color: black;
+}
+
+.P-C{
+    border-bottom: 3px solid #fffd;
+    display: inline-block;
+    margin-left: -45px;
+    margin-top: 7px;
+    font-family: poppins;
+    font-weight: bold;
+    font-size: 13px;
+}
+
+.P-C:hover{
+    border-color: #F16565;
+}
+
+.navbar{
+    margin-top: -10px;
+}
+
+.navbar-Shadow{
+    box-shadow: 0 4px 12px 0 rgba(0,0,0,.05);
+}
+
+.Heart{
+    margin-top: -20px;
+    margin-left: -55px;
+}
+
+.Wishlist{
+    margin-top: 42px;
+    margin-left: -70px;
+}
+
+.Wishlist a{
+    text-decoration: none;
+    color: black;
+    font-family: poppins;
+    font-weight: bold;
+    font-size: 13px;
+}
+
+.Shopping-Bag{
+    margin-top: -20px;
+    margin-left: -65px;
+}
+
+.Bag{
+    margin-top: 40px;
+    margin-left: -68px;
+}
+
+.Bag a{
+    text-decoration: none;
+    color: black;
+    font-family: poppins;
+    font-weight: bold;
+    font-size: 13px;
+}
+
+.Text, .Text-1, .Text-2, .Text-3, .Text-4{
+    border-bottom: 3px solid #fffd;
+}
+
+.Text:hover{
+    border-color:#EF687B;
+}
+
+.Text-1:hover{
+    border-color:#FB56C1;
+}
+
+.Text-2:hover{
+    border-color:#F26A10 ;
+}
+
+.Text-3:hover{
+    border-color:#F2C210 ;
+}
+
+.Text-4:hover{
+    border-color:#0DB7AF ;
+}
+
+.nav-link{
+    font-family: poppins;
+    font-weight: bold;
+}
+
+/* Sec-1 */
+
+.Sec-1{
+    background-color: #FDFDFD;
+    height: 100vh;
+}
+
+.Title{
+    margin-top: 80px;
+    text-decoration: none;
+    color: #6e6b6b;
+    font-size: 14px;
+}
+
+.Men-Topwere{
+    text-decoration: none;
+    color: black;
+    font-family: poppins;
+    font-weight: 600;
+    font-size: 14px;
+    margin-top: -20px;
+    margin-left: 120px;
+}
+
+.Men-Topwere-1{
+    margin-top: -10px;
+    font-family: poppins;
+    font-weight: 600;
+    font-size: 14px;   
+}
+
+.Numbers{
+    color: #696666;
+}
+
+.Filters{
+    margin-top: 30px;
+    font-family: poppins;
+    font-weight: 610;
+}
+
+.Selection{
+    display: flex;
+    margin-left: 200px;
+    margin-top: -28px;
+}
+
+.Selection p{
+    font-size: 13.5px;
+    margin-right: 40px;
+}
+
+.Same-line{
+    display: flex;
+}
+
+.SS{
+    margin-left: 120px;
+    margin-top: -28px;
+}
+
+.btn-manual{
+    background-color: #fff;
+    border:1px solid #d4d5d9;
+}
+
+.btn:hover{
+    border: 1px solid #d4d5d9;
+}
+
+.dropdown-menu{
+    width: 208px;
+}
+
+.flex{
+    display: flex;
+}
+
+.First{
+    margin-bottom: 20px;
+}
