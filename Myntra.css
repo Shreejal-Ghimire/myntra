@@ -168,6 +168,11 @@
     margin-top: -28px;
 }
 
+.I{
+    margin-left: 120px;
+    margin-top: -25px;
+}
+
 .btn-manual{
     background-color: #fff;
     border:1px solid #d4d5d9;
@@ -186,5 +191,5 @@
 }
 
 .First{
-    margin-bottom: 20px;
+    margin-top: 10px;
 }
